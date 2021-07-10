@@ -1,0 +1,37 @@
+/* .initial-div {
+  display: flex;
+  padding-left: 80px;
+}
+
+.p-txt {
+  padding-left: 10px;
+} */
+
+/* 
+.top-most {
+  padding-top: 20px;
+}
+
+.parent-div {
+  display: flex;
+  padding-left: 80px;
+  padding-top: 50px;
+} */
+
+.top-most {
+  display: flex;
+  padding-left: 50px;
+}
+
+.parent-div {
+  padding-left: 30px;
+}
+
+.child-div {
+  display: flex;
+  padding-left: 50px;
+}
+
+.child-input {
+  margin-left: 30px;
+}
